@@ -1,8 +1,7 @@
 ---
 title: Kitchen sink
-date: 2018-02-06 10:40:00 Z
-Custom field: Lorem ipsum dolor sit amet
-layout: default
+date: 2018-02-06 11:36:00 Z
+Custom field: Custom field value
 ---
 
 # Heading level 1
